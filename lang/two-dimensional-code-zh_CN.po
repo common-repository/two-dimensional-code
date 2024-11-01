@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Clean-Up Languages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-28 17:44+0800\n"
+"PO-Revision-Date: 2014-08-28 17:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: 风火家人网 <chenxue4076(#)163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: E:\\developments\\two-dimensional-code\\trunk\n"
+
+#: E:\developments\two-dimensional-code\trunk/sider.php:5
+#: E:\developments\two-dimensional-code\trunk/sider.php:9
+msgid "Two Dimensional Code"
+msgstr "二维码"
+
+#: E:\developments\two-dimensional-code\trunk/sider.php:18
+msgid "Show the page of two-dimensional code."
+msgstr "显示页面二维码"
+
+#: E:\developments\two-dimensional-code\trunk/sider.php:24
+msgid "Title:"
+msgstr "标题："
+
+#: E:\developments\two-dimensional-code\trunk/sider.php:97
+#: E:\developments\two-dimensional-code\trunk/code.php:11
+msgid "Mobile two-dimensional code scanning"
+msgstr "手机二维码扫描"
+
+#: E:\developments\two-dimensional-code\trunk/sider.php:97
+msgid "Scanning two-dimensional code to view this article"
+msgstr "扫描二维码查看文章"
+
+#: E:\developments\two-dimensional-code\trunk/sider.php:99
+msgid "No two-dimensional code has been generated"
+msgstr "没有生成二维码"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:12
+msgid "generate two-dimensional code, mobile two-dimensional code, make two-dimensional code"
+msgstr "二维码生成，手机二维码，制作二维码"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:13
+#: E:\developments\two-dimensional-code\trunk/code.php:41
+msgid "Two-dimensional code generated tools online"
+msgstr "在线二维码生成工具"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:45
+msgid "Input content here,"
+msgstr "这里填写内容，"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:45
+msgid "Generate Now"
+msgstr "马上生成"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:78
+msgid "Too large content."
+msgstr "输入内容超出范围"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:82
+msgid "Empty content."
+msgstr "输入内容为空"
+
+#: E:\developments\two-dimensional-code\trunk/code.php:86
+msgid "Two-dimensional code will be displayed here."
+msgstr "二维码将显示在这里。"
